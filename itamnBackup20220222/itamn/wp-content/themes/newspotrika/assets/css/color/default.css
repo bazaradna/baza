@@ -1,0 +1,43 @@
+.error-404 a,
+.post-comments .comment-reply-link,
+.navbar .sub-menu .current_page_item a,
+.navbar .children .current_page_item a,
+.post-navigation .nav-links a,
+.page-links a,
+.post-password-form input[type=submit],
+.comment-navigation a,.navbar,
+.sticky:after,
+.navbar ul li > ul li:hover,
+.nav-links .page-numbers,
+.comment-form input[type=submit],
+.block-title p,
+.banner-content .banner-category,
+.sticky {
+	background: #ff3d2e;
+}
+
+
+.footer-widget ul li a:hover,
+#wp-calendar a,
+blockquote::before,
+.navbar-brand:hover,
+.entry-meta a:hover,
+.widget>ul>li a:hover,
+.block-content a:hover,
+.block-list-content a:hover,
+.block-horizontal-content a:hover,
+.banner-title a:hover,
+.slick-prev,
+.slick-next,
+.block-carousel-item a:hover,
+.banner-block-content a:hover,
+.entry-title a:hover {
+	color: #ff3d2e;
+}
+
+
+blockquote,
+.block-title,
+.block-title p:after{
+	border-color: #ff3d2e;
+}
